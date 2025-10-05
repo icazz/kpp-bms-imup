@@ -22,7 +22,7 @@ This project is for KPP Basic Media Schooling.
 | Abiyyu Raihan Putra Wikanto | 5027241055 | Front End  | 
 | Muhammad Khosyi Syehab      | 5027241058 | Front End  | 
 | Maritza Adelia Sucipto      | 5027241055 | UI/UX      |
-| Erlinda Annisa Zahra        | 5027241055 | UI/UX      |
+| Erlinda Annisa Zahra        | 5027241108 | UI/UX      |
 | Ica Zika Hamizah            | 5027241058 | Front End  | 
 
 ## 🎨 UI/UX Design (Figma)
