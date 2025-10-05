@@ -12,10 +12,6 @@ This project is for KPP Basic Media Schooling.
 
 2. 🎨 UI/UX Design (Figma)
 
-
-   - 📓 Prerequisites
-   - ⛓️ Installation
-
 3. 🌐 Deploy Link (Vercel)
 
 4. ⚡ Cara Menjalankan Project
@@ -36,24 +32,3 @@ This project is for KPP Basic Media Schooling.
 ## 🌐 Deploy Link (Vercel)
 
 [Website](http://wkwk)
-
-## ⚡ Cara Menjalankan Project
-
-1. Clone repository
-
-```sh
-https://github.com/icazz/kpp-bms-imup.git
-```
-
-2. Move into directory
-
-```sh
-cd kpp-bms-imup
-```
-
-3. Install dependencies
-
-```sh
-ppp
-```
-
