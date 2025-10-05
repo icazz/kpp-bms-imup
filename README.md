@@ -19,11 +19,11 @@ This project is for KPP Basic Media Schooling.
 ## 👥 Pembagian Tugas
 | Nama                        | NRP        | TUGAS      | 
 | --------------------------  | ---------- | ---------- |
-| Abiyyu Raihan Putra Wikanto | 5027241055 | Front End  | 
-| Muhammad Khosyi Syehab      | 5027241058 | Front End  | 
-| Maritza Adelia Sucipto      | 5027241055 | UI/UX      |
-| Erlinda Annisa Zahra        | 5027241108 | UI/UX      |
+| Abiyyu Raihan Putra Wikanto | 5027241042 | Front End  | 
 | Ica Zika Hamizah            | 5027241058 | Front End  | 
+| Muhammad Khosyi Syehab      | 5027241089 | Front End  |
+| Erlinda Annisa Zahra        | 5027241108 | UI/UX      |
+| Maritza Adelia Sucipto      | 5027241111 | UI/UX      | 
 
 ## 🎨 UI/UX Design (Figma)
 
