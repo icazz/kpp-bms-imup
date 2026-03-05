@@ -31,4 +31,4 @@ This project is for KPP Basic Media Schooling.
 
 ## 🌐 Deploy Link (Vercel)
 
-[Website](http://wkwk)
+[Website](https://kpp-bms-blush.vercel.app/)
